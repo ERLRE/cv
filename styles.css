@@ -1,0 +1,22 @@
+body {
+  background-color: #D3DEDC;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+h3{
+  color: #92A9BD;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #92A9BD;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+  background-color: #D3DEDC;
+  border-style: dotted none none;
+  border-color: 7C99AC;
+  border-width: 7px;
+  width: 5%;
+}
