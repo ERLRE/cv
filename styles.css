@@ -15,7 +15,7 @@ h1 {
 
 hr {
   background-color: #D3DEDC;
-  border-style: dotted none none;
+  border-style: dotted dotted dotted;
   border-color: 7C99AC;
   border-width: 7px;
   width: 5%;
