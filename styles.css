@@ -1,22 +1,9 @@
-body {
-  background-color: #D3DEDC;
-  font-family: Arial, Helvetica, sans-serif;
-  }
-
-h3{
-  color: #92A9BD;
-  font-family: Arial, Helvetica, sans-serif;
+body{
+  margin: 0;
 }
 
-h1 {
-  color: #92A9BD;
-  font-family: Arial, Helvetica, sans-serif;
-}
+h1{margin-top: 0}
 
-hr {
-  background-color: #D3DEDC;
-  border-style: dotted dotted dotted;
-  border-color: 7C99AC;
-  border-width: 7px;
-  width: 5%;
+div {background-color: #84DFFF;
+font-family: Arial, Helvetica, sans-serif;
 }
