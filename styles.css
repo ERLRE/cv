@@ -11,23 +11,30 @@ h1 {
   background-color: #84dfff;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
-  padding-top: 100;
+  padding-top: 100px;
 }
 
 .middle-section {
   background-color: green;
   border: black;
-  padding: 20px;
+  width: 200px;
+  height: 200px;
 }
 
 .bottom-section {
   background-color: purple;
+  width: 200px;
+  height: 200px;
 }
 
 .bottom-cloud {
   position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
+  right: 300px;
+  top: 50px;
 }
