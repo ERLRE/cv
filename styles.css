@@ -1,9 +1,33 @@
-body{
+body {
   margin: 0;
+  text-align: center;
 }
 
-h1{margin-top: 0}
+h1 {
+  margin: 0 auto;
+}
 
-div {background-color: #84DFFF;
-font-family: Arial, Helvetica, sans-serif;
+.top-section {
+  background-color: #84dfff;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  padding-top: 100;
+}
+
+.middle-section {
+  background-color: green;
+  border: black;
+  padding: 20px;
+}
+
+.bottom-section {
+  background-color: purple;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
 }
