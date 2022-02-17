@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -8,21 +9,20 @@ h1 {
 }
 
 .top-section {
-  background-color: #84dfff;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e3e3e3;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-section {
-  background-color: green;
+  background-color: #fc5185;
   border: black;
   width: 200px;
   height: 200px;
 }
 
 .bottom-section {
-  background-color: purple;
+  background-color: #364f6b;
   width: 200px;
   height: 200px;
 }
