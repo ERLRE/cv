@@ -1,27 +1,27 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Karma", serif;
 }
 
 h1 {
   margin: 0 auto;
 }
 
-.top-section {
+.top-container {
   background-color: #e3e3e3;
   position: relative;
   padding-top: 100px;
 }
 
-.middle-section {
+.middle-container {
   background-color: #fc5185;
   border: black;
   width: 200px;
   height: 200px;
 }
 
-.bottom-section {
+.bottom-container {
   background-color: #364f6b;
   width: 200px;
   height: 200px;
