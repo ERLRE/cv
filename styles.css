@@ -6,6 +6,20 @@ body {
 
 h1 {
   margin: 0 auto;
+  font-size: 5.625em;
+  font-family: "Spectral", serif;
+}
+
+h2 {
+  margin: 0 auto;
+  font-size: 5.625em;
+  font-family: "Spectral", serif;
+}
+
+h1 {
+  margin: 0 auto;
+  font-size: 5.625em;
+  font-family: "Spectral", serif;
 }
 
 .top-container {
