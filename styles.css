@@ -1,44 +1,41 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: "Karma", serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h1 {
-  margin: 0 auto;
-  font-size: 5.625em;
-  font-family: "Spectral", serif;
+  margin: 50px auto 0px auto;
+  font-size: 5.625rem;
+  font-family: "Karma", serif;
+  color: #66bfbf;
 }
 
 h2 {
-  margin: 0 auto;
-  font-size: 5.625em;
-  font-family: "Spectral", serif;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66bfbf;
 }
 
-h1 {
-  margin: 0 auto;
-  font-size: 5.625em;
-  font-family: "Spectral", serif;
+h3 {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .top-container {
-  background-color: #e3e3e3;
+  background-color: #9ad0ec;
   position: relative;
-  padding-top: 100px;
 }
 
 .middle-container {
-  background-color: #fc5185;
+  background-color: #e3e3e3;
   border: black;
-  width: 200px;
-  height: 200px;
 }
 
 .bottom-container {
   background-color: #364f6b;
-  width: 200px;
-  height: 200px;
 }
 
 .bottom-cloud {
@@ -51,4 +48,27 @@ h1 {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  line-height: 1;
+}
+
+.code-img {
+  position: relative;
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.artists-img {
+  position: relative;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
 }
